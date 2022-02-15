@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/@matkrogher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@matkrogher" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/matteo-rizzo-mr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/matteo-rizzo-mr" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/matteo-rizzo-mr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/matteo-rizzo-mr" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17036124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17036124" height="30" width="40" /></a>
 <a href="https://instagram.com/matteo_rizzo_mr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="matteo_rizzo_mr" height="30" width="40" /></a>
 </p>
