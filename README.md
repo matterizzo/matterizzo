@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matterizzo&label=Profile%20views&color=0e75b6&style=flat" alt="matterizzo" /> </p>
 
-- 🌱 I’m currently learning **PHP - MySQL**
-
 - 👨‍💻 All of my projects are available at [https://github.com/matterizzo](https://github.com/matterizzo)
 
 - 📫 How to reach me **matteo.rizzo8@gmail.com**
