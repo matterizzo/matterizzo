@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matteo</h1>
-<h3 align="center">Frontend developer from Italy</h3>
+<h3 align="center">Full Stack Developer from Italy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matterizzo&label=Profile%20views&color=0e75b6&style=flat" alt="matterizzo" /> </p>
 
